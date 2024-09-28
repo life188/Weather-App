@@ -11,8 +11,6 @@ import wind_icon from '../Assets/wind.png';
 
 
 
-
-
 const WeatherApp = () => {
 
     let api_key = "3c5966592ebc52d0f015d515b2084971";
@@ -111,3 +109,4 @@ const WeatherApp = () => {
 }
 
 export default WeatherApp
+
